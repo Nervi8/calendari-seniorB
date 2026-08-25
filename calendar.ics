@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AE Badalones Basketball Calendar//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 A.E. Badalonès - Partits
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:594db7951c713e09f62e0d1a@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20260926T160000
+DTEND;TZID=Europe/Madrid:20260926T180000
+SUMMARY:🏀 @ ESCOLAPIS SARRIÀ B ✈️
+LOCATION:COL.LEGI ESCOLAPIS SARRIA (IMMACULADA\, 25-35 (08017))
+DESCRIPTION:ESCOLAPIS SARRIÀ B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:d00355756f1bbf32b4112e07@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261004T174500
+DTEND;TZID=Europe/Madrid:20261004T194500
+SUMMARY:🏀 vs MEDIBAIX - CB GAVÀ 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - MEDIBAIX - CB GAVÀ\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:8692a3c49fd7d3d45691ab97@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261010T193000
+DTEND;TZID=Europe/Madrid:20261010T213000
+SUMMARY:🏀 @ CENTRE CATÒLIC L'H B ✈️
+LOCATION:CENTRE CATOLIC DE L'HOSPITALET (RAMBLA JUST OLIVERES\, 34 (08901))
+DESCRIPTION:CENTRE CATÒLIC L'H B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d3f29a1f373a09b02e48c0@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261018T174500
+DTEND;TZID=Europe/Madrid:20261018T194500
+SUMMARY:🏀 vs AEEC CULTURAL BADALONA 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - AEEC CULTURAL BADALONA\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ce2a2df8b228dc9a37ba60@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261025T174500
+DTEND;TZID=Europe/Madrid:20261025T194500
+SUMMARY:🏀 vs CE LA MARINA B 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - CE LA MARINA B\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7618ff6d0c68f8ccc9a9d9@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261107T194500
+DTEND;TZID=Europe/Madrid:20261107T214500
+SUMMARY:🏀 @ OPENLLAR VILÀBASQUET VILADECANS SMB ✈️
+LOCATION:ATRIUM VILADECANS (AV. JOSEP TARRADELLAS 17 (08840))
+DESCRIPTION:OPENLLAR VILÀBASQUET VILADECANS SMB - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:7391aeee6e64a04d8f20f97c@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261115T174500
+DTEND;TZID=Europe/Madrid:20261115T194500
+SUMMARY:🏀 vs AESE C 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - AESE C\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:7263c8fa4f931f22c5e3e81b@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261121T181500
+DTEND;TZID=Europe/Madrid:20261121T201500
+SUMMARY:🏀 @ BASQUET LLOR ✈️
+LOCATION:E.E. LLOR (LLUIS COMPANYS\, 50 (08830))
+DESCRIPTION:BASQUET LLOR - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:ed66e03a9717a6c0daf85a90@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261129T174500
+DTEND;TZID=Europe/Madrid:20261129T194500
+SUMMARY:🏀 vs C.E.B. PALLEJÀ - AEGAS 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - C.E.B. PALLEJÀ - AEGAS\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:196dbefecda1c37c107a4ff4@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261212T174500
+DTEND;TZID=Europe/Madrid:20261212T194500
+SUMMARY:🏀 @ CB MONTPEDRÓS ✈️
+LOCATION:POLIESP. SANTA COLOMA CERVELLO (AV. PAISOS CATALANS 1-3 (08690))
+DESCRIPTION:CB MONTPEDRÓS - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:cac954bccb4a12834d381045@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20261220T174500
+DTEND;TZID=Europe/Madrid:20261220T194500
+SUMMARY:🏀 vs BF CORNELLÀ 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - BF CORNELLÀ\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:75f9cfac4191de363906a299@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270109T160000
+DTEND;TZID=Europe/Madrid:20270109T180000
+SUMMARY:🏀 @ BC SANT JOAN DESPI B ✈️
+LOCATION:POLIESPORTIU FRANCESC CALVET (AV. BARCELONA\, 45 (08970))
+DESCRIPTION:BC SANT JOAN DESPI B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1a16c0592eec6c39445f73@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270117T174500
+DTEND;TZID=Europe/Madrid:20270117T194500
+SUMMARY:🏀 vs CLUB ESPORTIU DIAGONAL MAR B 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - CLUB ESPORTIU DIAGONAL MAR B\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe3540185c316e88e0f6f50@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270124T174500
+DTEND;TZID=Europe/Madrid:20270124T194500
+SUMMARY:🏀 vs ESCOLAPIS SARRIÀ B 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - ESCOLAPIS SARRIÀ B\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:40c426890801f67b0c8f3432@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270130T181500
+DTEND;TZID=Europe/Madrid:20270130T201500
+SUMMARY:🏀 @ MEDIBAIX - CB GAVÀ ✈️
+LOCATION:PAVELLO CAN TINTORE (RAMBLA POMPEU FABRA\, 144 (08850))
+DESCRIPTION:MEDIBAIX - CB GAVÀ - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:914edcd6e03e841d2a66bb48@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270207T174500
+DTEND;TZID=Europe/Madrid:20270207T194500
+SUMMARY:🏀 vs CENTRE CATÒLIC L'H B 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - CENTRE CATÒLIC L'H B\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:d782881eed12f969f308a012@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270213T174500
+DTEND;TZID=Europe/Madrid:20270213T194500
+SUMMARY:🏀 @ AEEC CULTURAL BADALONA ✈️
+LOCATION:PAVELLO POMAR (CTRA. DE POMAR\, S/N (08915))
+DESCRIPTION:AEEC CULTURAL BADALONA - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:2f508f527e9472d6e396691c@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270227T193000
+DTEND;TZID=Europe/Madrid:20270227T213000
+SUMMARY:🏀 @ CE LA MARINA B ✈️
+LOCATION:POLIESPORTIU LA MARINA (c/ DEL COURE\, S/N (08038))
+DESCRIPTION:CE LA MARINA B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:02f5c3be769a116d7b9f67a9@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270307T174500
+DTEND;TZID=Europe/Madrid:20270307T194500
+SUMMARY:🏀 vs OPENLLAR VILÀBASQUET VILADECANS SMB 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - OPENLLAR VILÀBASQUET VILADECANS SMB\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d8f1f2c4d45b98214f831d@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270313T193000
+DTEND;TZID=Europe/Madrid:20270313T213000
+SUMMARY:🏀 @ AESE C ✈️
+LOCATION:POLIESPORTIU SANTA EULALIA (JACINT VERDAGUER\, 15-17 (08902))
+DESCRIPTION:AESE C - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:7716b389c10153845a86b461@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270404T174500
+DTEND;TZID=Europe/Madrid:20270404T194500
+SUMMARY:🏀 vs BASQUET LLOR 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - BASQUET LLOR\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:8a55e7f8f991a3043b82056e@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270411T174500
+DTEND;TZID=Europe/Madrid:20270411T194500
+SUMMARY:🏀 @ C.E.B. PALLEJÀ - AEGAS ✈️
+LOCATION:PAV. MUNICIPAL PALLEJA (AV. ONZE DE SETEMBRE 1714\, 1 (08780))
+DESCRIPTION:C.E.B. PALLEJÀ - AEGAS - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:ce9c0ee15289d1d79471f04d@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270418T174500
+DTEND;TZID=Europe/Madrid:20270418T194500
+SUMMARY:🏀 vs CB MONTPEDRÓS 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - CB MONTPEDRÓS\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9dc1e9084dad57fa8f184@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270424T193000
+DTEND;TZID=Europe/Madrid:20270424T213000
+SUMMARY:🏀 @ BF CORNELLÀ ✈️
+LOCATION:PAVELLO CAN CARBONELL (MARIANO BENLLIURE\, S/N (08940))
+DESCRIPTION:BF CORNELLÀ - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:4daf0f68d827c834ea02dc51@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270509T174500
+DTEND;TZID=Europe/Madrid:20270509T194500
+SUMMARY:🏀 vs BC SANT JOAN DESPI B 🏠
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - BC SANT JOAN DESPI B\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:8199e1c8df22401ffbaa2b11@basquetcalendar-88834
+DTSTART;TZID=Europe/Madrid:20270516T193000
+DTEND;TZID=Europe/Madrid:20270516T213000
+SUMMARY:🏀 @ CLUB ESPORTIU DIAGONAL MAR B ✈️
+LOCATION:C.E. MONTSENY (PALLARS\, 410 (08019))
+DESCRIPTION:CLUB ESPORTIU DIAGONAL MAR B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 1A. TERRITORIAL SÈNIOR MASCULÍ\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+END:VCALENDAR
